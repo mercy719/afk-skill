@@ -1,0 +1,4 @@
+interface:
+  display_name: "AFK Work Loop"
+  short_description: "Propose, approve, and execute unfinished work"
+  default_prompt: "Use $afk to scan today’s project context, propose an execution plan, and wait for my approval before starting the goal."
